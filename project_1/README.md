@@ -29,9 +29,9 @@ The state of California has many school counties. This project aims to identify 
 
 ### Datasets
 
-* [`act_2017.csv`](./data/act_2017.csv): 2017 ACT Scores by State
-* [`act_2018.csv`](./data/act_2018.csv): 2018 ACT Scores by State
-* [`act_2019.csv`](./data/act_2019.csv): 2019 ACT Scores by State
+* [`act_2017.csv`](../data/act_2017.csv): 2017 ACT Scores by State
+* [`act_2018.csv`](../data/act_2018.csv): 2018 ACT Scores by State
+* [`act_2019.csv`](../data/act_2019.csv): 2019 ACT Scores by State
 * [`act_2019_ca.csv`](./data/act_2019_ca.csv): 2019 ACT Scores in California by School
 * [`sat_2017.csv`](./data/sat_2017.csv): 2017 SAT Scores by State
 * [`sat_2018.csv`](./data/sat_2018.csv): 2018 SAT Scores by State
@@ -89,5 +89,4 @@ The state of California has many school counties. This project aims to identify 
 ---
 
 ### Exploratory Data Analysis
-![GitHub Logo](/images/SAT vs ACT Participation.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/SAT vs ACT Participation.png)
