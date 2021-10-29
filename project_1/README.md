@@ -88,4 +88,5 @@ The state of California has many school counties. This project aims to identify 
 |Year|str|SAT|The SAT test administraion year.|
 ---
 
-### Data Dictionary
+### Exploratory Data Analysis
+Exploratory Data Analysis
