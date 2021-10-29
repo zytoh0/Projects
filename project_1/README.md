@@ -89,4 +89,5 @@ The state of California has many school counties. This project aims to identify 
 ---
 
 ### Exploratory Data Analysis
-Exploratory Data Analysis
+![GitHub Logo](/images/SAT vs ACT Participation.png)
+Format: ![Alt Text](url)
