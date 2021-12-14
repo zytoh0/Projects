@@ -41,7 +41,7 @@ ElasticNet|92.1%
 
 ## Conclusions and Recommendations
 
-In this project, I have conducted a detailed EDA to understand the data and important features. Based on exploratory analysis, I performed data preprocessing and feature engineering. Finally, I train regularized regression models (Ridge, Lasso), and take average predictions from these models to predict final price of each house. By the time I write this notebook, my best model has Mean Absolute Error of 12293.919, ranking 95/15502, approximately top 0.6% in the Kaggle leaderboard.
+In this project, I have conducted a detailed EDA to understand the data and important features. Based on exploratory analysis, I performed data preprocessing and feature engineering. Finally, I train regularized regression models (Ridge, Lasso), and take average predictions from these models to predict final price of each house. By the time I write this notebook, my best model has Mean Absolute Error of 16912.89259, approximately top 0.6% in the Kaggle leaderboard.
 
 Among the 4 models, the ElasticNet model performed the best and was able to explain about 92% of variance in sales prices on the train data and produced the lowest RMSE of 0.116 on both the train and test data. Hence, our team recommends ElasticNet model to predict the sale price due to the normality of distribution.
 
