@@ -1,7 +1,7 @@
 # README: Predicting House Prices with Linear Regression
 #### Author: Zhi Yuan Toh
 
-## Problem Statement
+## Introduction
 After my first two data science projects solving classification problems, I am looking to expand my skill set by doing a comprehensive regression project. While taking Data Science micro-courses on Kaggle, I came across the House Prices: Advanced Regression Techniques competition. With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges me to predict the final price of each home.
 
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. The data set describing the sale of individual residential property in Ames, Iowa from 2006 to 2010. The data set contains 2930 observations and a large number of explanatory variables (23 nominal, 23 ordinal, 14 discrete, and 20 continuous) involved in assessing home values.
