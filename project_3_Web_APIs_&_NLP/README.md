@@ -10,13 +10,11 @@
 * Conclusion and Recommendations
 * References
 
-## Overview
+## Problem Statement
 
 Reddit is a massive collection of forums where people can share social news and content. Essentially, posts are organised according to subject into user-created 'subreddits'.
 
 Members submit content (such as images, texts, and links) to subreddits, which can then be voted up ('upvote') or down ('downvote') by other members. 2019, many news reports reveal that there has been a rapidly growing interest in pet ownership. More people have expressed interest in adopting or fostering dogs and cats for various reasons - such as for companionship during circuit breaker or ease of caring for pets due to work-from-home arrangements.
-
-## Problem Statement
 
 Introducing "CatDog" - a “start-up” company in the Pet Industry.
 
@@ -24,6 +22,13 @@ CatDog has outsourced us data scientists to:
 <br>1) examine the topics of interest/needs of these new dog and cat owners
 <br>2) provide relevant suggestions on creating new services for dog and cat owners.
 <br>3) Figure out the wants and needs of dog and cat owners by looking at relevant subreddits so that we can suggest a viable business model for pet lovers to venture into the pet industry.
+
+We aim to develop 3 supervised classification models:
+<br>1) Random Forest Classifier
+<br>2) Multinomial Naive Bayes
+<br>3)Logistics Regression Classifier
+
+We select one model that best predicts the classification of the subreddit for current and future posts submitted by either dog or cat owners. Success will be evaluated based on the accuracy score (which tells us its predictive power) of both models on the test set, and look at the most important word features for that particular model to draw conclusions for CatDog.
 
 CatDog has specifically asked us to source information from reddit, as they would like to target an international clientele.
 
