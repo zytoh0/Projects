@@ -54,7 +54,6 @@ The data is cleaned by using these steps:
 These are the visualisations that were plotted (for r/cats and r/dogs):
 
 1. Distribution of Title Lengths and Number of Words (separated into Cats and Dogs)
-
 ![](images/title_lengths_cats.png)
 
 ![](images/title_lengths_dogs.png)
