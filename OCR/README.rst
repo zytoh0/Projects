@@ -32,4 +32,4 @@ Prerequisites:
 
 CONTRIBUTOR
 ------------
-- Originally written by `Zhi Yuan Toh <https://github.com/h>`_
+- Originally written by `Zhi Yuan Toh <https://github.com/zytoh0>`_
