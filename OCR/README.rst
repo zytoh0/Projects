@@ -17,6 +17,7 @@ The following code block only work in Captcha.ipynb
     """
 
 Example:
+
 .. code-block:: python
 
     import matplotlib.pyplot as plt, cv2, pytesseract
