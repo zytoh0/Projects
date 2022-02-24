@@ -6,10 +6,15 @@ That is, it will recognize and "read" the text embedded in images and write the 
 
 USAGE
 -----
+The following code block only work in Captcha.ipynb
 
-**Quickstart**
+.. code-block:: python
 
-Library usage:
+    Captcha(im_path, save_path);
+    """
+    im_path: .jpg image path to load and to infer
+    save_path: output file path to save the one-line outcome
+    """
 
 .. code-block:: python
 
