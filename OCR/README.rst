@@ -16,6 +16,7 @@ The following code block only work in Captcha.ipynb
     save_path: output file path to save the one-line outcome
     """
 
+Example:
 .. code-block:: python
 
     import matplotlib.pyplot as plt, cv2, pytesseract
