@@ -24,8 +24,8 @@ INSTALLATION
 Prerequisites:
 
 - Captcha requires Python 3.6+
-- You will need Python Tesseract <https://pypi.org/project/pytesseract/>`.
-- You will need OpenCV for Python <https://pypi.org/project/opencv-python/>`.
+- You will need `Python Tesseract <https://pypi.org/project/pytesseract/>`_.
+- You will need `OpenCV for Python <https://pypi.org/project/opencv-python/>`_.
 - You will need the Python Imaging Library (PIL) (or the `Pillow <https://pypi.org/project/Pillow/>`_ fork).
   Under Debian/Ubuntu, this is the package **python-imaging** or **python3-imaging**.
 
